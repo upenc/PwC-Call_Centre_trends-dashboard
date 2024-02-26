@@ -26,6 +26,6 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 
 Shows visualizations from Call Center Trends :
 
-![Call-Center-Dashboard]()
+![Call-Center-Dashboard](https://github.com/upenc/PwC-Call_Centre_trends-dashboard/blob/main/Capture.JPG)
 
 
